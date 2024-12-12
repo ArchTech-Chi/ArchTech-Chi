@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArchTech-Chi
+- 👋 Hi, I’m @ArchTech-Chioma
 - 👀 I’m interested in blending Architectural design principles with web development 
 - 🌱 I’m currently learning HTML,CSS and JavaScript
 - 😄 Pronouns: She/her
